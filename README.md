@@ -1,6 +1,6 @@
 # lesson
 
-> A Vue.js project with Event dispatcher based on the simle webpack template
+> A Vue.js project with Event dispatcher based on the simle webpack template. Click on the logo or ther header to dispatch an event.
 
 ## Build Setup
 
